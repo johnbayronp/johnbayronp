@@ -5,7 +5,7 @@ Desarrollador amante a las nuevas tecnologias 👨‍💻
 Tecnologo en electronica industrial 💡
 Me apasiona el desarrollo 🥷 Backend y Frontend 🎨
 
-###✅ Algunas de mis habilidades:
+✅ Algunas de mis habilidades:
   🔥 Ilustraciones 
   🏝 Diseño UX/UI 
   👾 Figma & adobe XD 
