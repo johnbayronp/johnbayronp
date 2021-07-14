@@ -4,7 +4,7 @@
 Desarrollador amante a las nuevas tecnologias 👨‍💻
 Tecnologo en electronica industrial 💡
 Me apasiona el desarrollo 🥷 Backend y Frontend 🎨
-
+```
 ✅ Algunas de mis habilidades:
   🔥 Ilustraciones 
   🏝 Diseño UX/UI 
@@ -29,7 +29,7 @@ Me apasiona el desarrollo 🥷 Backend y Frontend 🎨
   🎹 Piano 
   🎒 Viajar 
   ⚡  Volar aviones & drones ⚡
-
+```
 <!--
 **johnbayronp/johnbayronp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
