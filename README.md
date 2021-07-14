@@ -5,30 +5,30 @@ Desarrollador amante a las nuevas tecnologias 👨‍💻
 Tecnologo en electronica industrial 💡
 Me apasiona el desarrollo 🥷 Backend y Frontend 🎨
 
-#Algunas de mis habilidades:
-  - Ilustraciones 🔥
-  - Diseño UX/UI 🏝
-  - Figma & adobe XD 👾
-  - AngularJs 🖲
-  - Javascript, HTML, CSS 🔭 
-  - Nodejs Express 🔓
-  - Firebase (Medium) ✅
-  - MongoDB (Basic) ✅
-  - Flutter 💟
-  - Python 🤖
+###✅ Algunas de mis habilidades:
+  🔥 Ilustraciones 
+  🏝 Diseño UX/UI 
+  👾 Figma & adobe XD 
+  🖲 AngularJs 
+  🔭 Javascript, HTML, CSS  
+  🔓 Nodejs Express 
+  ✅ Firebase (Medium) 
+  ✅ MongoDB (Basic) 
+  💟 Flutter 
+  🤖 Python 
   
-#Aprendiendo:
-  - ReactJS 🤓
-  - Ingles 💬
-  - VueJS 🎯
-  - Machine Learning & deep learning 📚
+✅ Aprendiendo:
+  🤓 ReactJS 
+  💬 Ingles 
+  🎯 VueJS 
+  📚 Machine Learning & deep learning 
  
-#Hobbies:
-  - Escuchar Musica 🎧
-  - Guitarra 🎸
-  - Piano 🎹
-  - Viajar 🎒
-  - Volar aviones & drones ⚡
+ ✅ Hobbies:
+  🎧 Escuchar Musica 
+  🎸 Guitarra 
+  🎹 Piano 
+  🎒 Viajar 
+  ⚡  Volar aviones & drones ⚡
 
 <!--
 **johnbayronp/johnbayronp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
