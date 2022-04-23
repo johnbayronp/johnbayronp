@@ -16,9 +16,9 @@ Me apasiona el desarrollo 🥷 Backend y Frontend 🎨
   ✅ MongoDB (Basic) 
   💟 Flutter 
   🤖 Python 
+  🤓 ReactJS 
   
 ✅ Aprendiendo:
-  🤓 ReactJS 
   💬 Ingles 
   🎯 VueJS 
   📚 Machine Learning & deep learning 
