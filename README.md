@@ -13,15 +13,16 @@ Me apasiona el desarrollo 🥷 Backend y Frontend 🎨
   🔭 Javascript, HTML, CSS  
   🔓 Nodejs Express 
   ✅ Firebase (Medium) 
-  ✅ MongoDB (Basic) 
+  ✅ Mongoose (Medium) 
   💟 Flutter 
   🤖 Python 
-  🤓 ReactJS 
-  
+  🤓 ReactJS
+    
 ✅ Aprendiendo:
   💬 Ingles 
   🎯 VueJS 
-  📚 Machine Learning & deep learning 
+  📚 Machine Learning & deep learning
+  😻 SwiftUI & Swift
  
  ✅ Hobbies:
   🎧 Escuchar Musica 
